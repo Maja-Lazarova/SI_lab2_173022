@@ -5,6 +5,7 @@
 Ја добив група 2
 
 Control Flow Graph:
+<img src="https://user-images.githubusercontent.com/63316754/84451605-e1df6b00-ac53-11ea-8aed-ab4706bdf3af.png">
 
 Цикломатска комплексност:
 
